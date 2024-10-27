@@ -16,11 +16,9 @@
 
 <!-- Social Links -->
 <div align="left">
-  <a href="https://twitter.com/https://x.com/home?lang=en" target="blank">
-    <img src="https://img.shields.io/twitter/follow/https://x.com/home?lang=en?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1a1a1a" alt="Twitter" />
-  </a>
+  
   <a href="https://linkedin.com/in/www.linkedin.com/in/adithya-rana-7859b9287" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0e76a8&labelColor=1a1a1a" alt="LinkedIn" />
+    <img src="www.linkedin.com/in/adithya-rana-7859b9287" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/adithya.rana.11" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&color=E1306C&labelColor=1a1a1a" alt="Instagram" />
@@ -46,11 +44,11 @@
 
 <h3 align="left" style="color: #58a6ff;">Connect with Me:</h3>
 <p align="left">
-  <a href="https://twitter.com/https://x.com/home?lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/adithya-rana-7859b9287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/adithya rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  
+  <a href="www.linkedin.com/in/adithya-rana-7859b9287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://instagram.com/adithya.rana.11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/adithyarana447/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/adithyarana447/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" style="color: #58a6ff;">Languages and Tools:</h3>

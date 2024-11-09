@@ -17,7 +17,7 @@
 <!-- Social Links -->
 <div align="left">
 
-  <a href="www.linkedin.com/in/adithya-rana-7859b9287" target="blank">
+  <a href="https://www.linkedin.com/in/adithya-rana-7859b9287/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0e76a8&labelColor=1a1a1a" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/adithya.rana.11" target="blank">

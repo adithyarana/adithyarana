@@ -26,7 +26,7 @@
 </div>
 
 ### 🌱 Currently Learning
-- **React**
+- **Node.Js**
 
 ### 👨‍💻 Projects & Portfolio
 - [Visit My Portfolio](https://adithyarana.github.io/personal-portfolio/)

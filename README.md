@@ -78,7 +78,7 @@
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
 
-      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013-2019_logo.svg" alt="Microsoft Excel" width="40" height="40"/>
 </a>
 
@@ -86,12 +86,8 @@
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
 </a>
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman" width="40" height="40"/>
-</a>
 
-<a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-  <img src="https://res.cloudinary.com/cloudinary/image/upload/v1614285562/logos/cloudinary_logo_for_white_bg.svg" alt="Cloudinary" width="40" height="40"/>
+
 </a>
 
 </a>

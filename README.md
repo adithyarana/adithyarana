@@ -26,19 +26,16 @@
 </div>
 
 ### 🌱 Currently Learning
-- **Node.Js**
+- **AI&ML**
 
 ### 👨‍💻 Projects & Portfolio
 - [Visit My Portfolio](https://adithyarana.vercel.app)
 
 ### 💬 Ask Me About
-- **MERN, Data Science**
+- **MERN, AI&ML**
 
 ### 📫 Contact Me
 - **adithyarana447@gmail.com**
-
-### ⚡ Fun Fact
-- I’m funny!
 
 ---
 

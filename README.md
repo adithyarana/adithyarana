@@ -29,7 +29,7 @@
 - **Node.Js**
 
 ### 👨‍💻 Projects & Portfolio
-- [Visit My Portfolio](https://adithyarana.github.io/personal-portfolio/)
+- [Visit My Portfolio](https://adithyarana.vercel.app)
 
 ### 💬 Ask Me About
 - **MERN, Data Science**

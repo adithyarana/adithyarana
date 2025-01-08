@@ -83,15 +83,14 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyarana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyarana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
- <p align="center">
-<img 
-    src="https://streak-stats.demolab.com/?user=adithyarana&theme=dark" 
+<!-- GitHub Streak -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=adithyarana&theme=dark)](https://git.io/streak-stats)" 
     alt="GitHub Streak" 
     style="max-width: 100%; height: auto;" 
-/>
-
-
-
+  />
 </p>
+
 
 </div>

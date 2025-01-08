@@ -84,7 +84,13 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyarana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyarana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
  <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=adithyarana&theme=tokyonight" alt="GitHub Streak" />
+<img 
+    src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" 
+    alt="GitHub Streak" 
+    style="max-width: 100%; height: auto;" 
+/>
+
+
 
 </p>
 

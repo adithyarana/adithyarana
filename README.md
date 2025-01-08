@@ -85,7 +85,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyarana&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
  <p align="center">
 <img 
-    src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" 
+    src="https://streak-stats.demolab.com/?user=adithyarana&theme=dark" 
     alt="GitHub Streak" 
     style="max-width: 100%; height: auto;" 
 />

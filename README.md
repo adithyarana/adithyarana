@@ -111,10 +111,10 @@ Built TRON wallet generation and USDT TRC20 monitoring, real-time transaction up
 
 <p align="center">
   <a href="https://github.com/adithyarana?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=adithyarana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" width="49%" alt="Adithya's GitHub statistics" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithyarana&theme=tokyonight&animation=load" width="49%" alt="Adithya's GitHub statistics" />
   </a>
   <a href="https://github.com/adithyarana?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyarana&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" alt="Most used languages in public repositories" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyarana&theme=tokyonight&animation=load" width="49%" alt="Public repositories grouped by primary language" />
   </a>
 </p>
 
@@ -126,7 +126,7 @@ Built TRON wallet generation and USDT TRC20 monitoring, real-time transaction up
 
 <p align="center">
   <a href="https://github.com/adithyarana">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyarana&bg_color=0d1117&color=a78bfa&line=22d3ee&point=c4b5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Recent GitHub contribution activity graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyarana&theme=tokyonight&animation=load" width="100%" alt="Recent GitHub contribution activity graph" />
   </a>
 </p>
 

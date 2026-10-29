@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Adithya Rana 👋</h1>
-<h3 align="center">Full Stack AI Engineer · Backend Engineering · Production Systems</h3>
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Adithya Rana — animated circuit header" />
+</p>
+
+<p align="center">
+  <a href="https://adithya-rana.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=22D3EE&center=true&vCenter=true&width=720&height=55&lines=Software+Engineer+%40+TradeIndia;Building+APIs+that+power+real+products;Creating+AI+tools+with+Python;Node.js+%7C+PostgreSQL+%7C+Redis+%7C+React" width="100%" alt="Software Engineer at TradeIndia · Building APIs · Creating AI tools" />
+  </a>
+</p>
 
 <p align="center">
   Building reliable APIs, practical AI tools, and applications that solve real business problems.
@@ -13,6 +20,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adithyarana&label=PROFILE+VIEWS&color=6e40c9&style=flat-square" alt="Profile view counter" />
+  <a href="https://github.com/adithyarana?tab=followers"><img src="https://img.shields.io/github/followers/adithyarana?label=Followers&style=flat-square&color=22d3ee" alt="GitHub followers" /></a>
+  <a href="https://github.com/adithyarana?tab=repositories"><img src="https://img.shields.io/github/stars/adithyarana?affiliations=OWNER&label=Repository%20stars&style=flat-square&color=a78bfa" alt="Stars across owned repositories" /></a>
+</p>
 
 ## A little about me
 
@@ -93,6 +106,31 @@ Built TRON wallet generation and USDT TRC20 monitoring, real-time transaction up
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,django,react,nextjs,tailwind,postgres,mysql,mongodb,redis,prisma,docker,git,linux,postman,jenkins&perline=10" alt="JavaScript, TypeScript, Python, Node.js, Express, Django, React, Next.js, Tailwind, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Docker, Git, Linux, Postman, Jenkins" />
 </p>
+
+## GitHub telemetry
+
+<p align="center">
+  <a href="https://github.com/adithyarana?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=adithyarana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github" width="49%" alt="Adithya's GitHub statistics" />
+  </a>
+  <a href="https://github.com/adithyarana?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyarana&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="49%" alt="Most used languages in public repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adithyarana">
+    <img src="https://streak-stats.demolab.com?user=adithyarana&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/adithyarana">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyarana&bg_color=0d1117&color=a78bfa&line=22d3ee&point=c4b5fd&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Recent GitHub contribution activity graph" />
+  </a>
+</p>
+
+<sub>Cards reflect the public GitHub data available to their providers. Language usage reflects repository composition; external cards may occasionally be unavailable.</sub>
 
 ## How I approach engineering
 
